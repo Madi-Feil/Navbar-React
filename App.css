@@ -1,0 +1,8 @@
+.nav-wrapper {
+  background-color: rgb(184, 219, 250);
+  padding: 10px 10px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button {
+  color: black;
+}
